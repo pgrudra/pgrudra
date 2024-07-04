@@ -2,6 +2,12 @@
 - I'm an evolving Software Developer and a graduate from IIT Kanpur.
 - Have 3.5 years of professional experience working with Java: 2 years in Spring Boot, 1.5 years in Android.
 - I'm keen on making max impact with my limited resources.
+- A skill that my colleagues state I possess abundantly is: 
+"Ability to grasp the requirement with clarity & refine it"
+- A skill that I'm trying to improve:
+'Learn On Demand'
+
+
 
 <!---
 pgrudra/pgrudra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
