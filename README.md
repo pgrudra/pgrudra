@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pgrudra
 - I'm an evolving Software Developer and a graduate from IIT Kanpur.
-- Have 3.5 years of professional experience working with Java: 2 years in Spring Boot, 1.5 years in Android.
+- Have more than 3.5 years of professional experience working with Java: 2 years in Spring Boot, 1.5 years in Android.
 - I'm keen on making max impact with my limited resources.
 - A skill that my colleagues state I possess abundantly is: 
 "Ability to grasp the requirement with clarity & refine it"
