@@ -6,6 +6,8 @@
 "Ability to grasp the requirement with clarity & refine it"
 - A skill that I'm trying to improve:
 'Learn On Demand'
+- Been building gesture controlled games alongside professional work as a hobby.
+
 
 
 
